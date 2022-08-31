@@ -1,6 +1,7 @@
 <div align=center>
 
   <h4>Hello World:)</h4>
+  <a href="https://velog.io/@jejupalette" target="_blank"><img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge"/></a>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnSuebin)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
