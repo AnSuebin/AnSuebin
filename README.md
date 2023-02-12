@@ -9,7 +9,9 @@
 자신의 역할을 자립적으로 수행함을 인정받고, 인정이 쌓여 일을 믿고 맡길 수 있는 개발자<br/>
 자립적인 개발자로 꾸준하게 성장하여, 시너지를 확신할 수 있는 개발자가 되길 희망합니다
 
-<img src="https://img.shields.io/badge/resume-doc-blue"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 <a href="https://velog.io/@jejupalette" target="_blank"><img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge"/></a>
   
