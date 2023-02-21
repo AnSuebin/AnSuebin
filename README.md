@@ -1,13 +1,22 @@
 ![스크린샷 2023-02-12 오후 8 09 36](https://user-images.githubusercontent.com/101397314/218308371-b1b15654-bde1-47d3-a573-aa1da34a3bb8.png)
 
-<a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c7db0355-01ee-4d19-ba87-49d585055f18/%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%89%E1%85%AE%E1%84%87%E1%85%B5%E1%86%AB_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5_%283%E1%84%8E%E1%85%A1%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230221T035451Z&X-Amz-Expires=86400&X-Amz-Signature=5330a309119369f110353a392fcd226b787bdc98ae54062826a998d99b5213a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25E1%2584%258B%25E1%2585%25A1%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25AE%25E1%2584%2587%25E1%2585%25B5%25E1%2586%25AB_%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A7%25E1%2586%25A8%25E1%2584%2589%25E1%2585%25A5%2520%283%25E1%2584%258E%25E1%2585%25A1%29.pdf%22&x-id=GetObject" target="_blank"><img src="https://img.shields.io/badge/resume-doc-blue"/></a>
+<a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f852cf18-d4a8-43ea-a23e-d34a4b375e90/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3__%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%89%E1%85%AE%E1%84%87%E1%85%B5%E1%86%AB_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230221T054545Z&X-Amz-Expires=86400&X-Amz-Signature=0460730bd51229ca49d01a6259d4f252523ff3e4265ef091343d8afe33bed3a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25E1%2584%2591%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25A9%25E1%2586%25AB%25E1%2584%2590%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25A6%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25B3_%2520%25E1%2584%258B%25E1%2585%25A1%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25AE%25E1%2584%2587%25E1%2585%25B5%25E1%2586%25AB_%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A7%25E1%2586%25A8%25E1%2584%2589%25E1%2585%25A5.pdf%22&x-id=GetObject" target="_blank"><img src="https://img.shields.io/badge/resume-doc-blue"/></a>
 
-<h3>🙆‍♀️ 자립적인 개발자 안수빈입니다</h3>
+<h3>🫗 기획을 녹여내는 개발자 안수빈입니다</h3>
  
 > **자립적인 개발자를 목표로 공부하고 도전합니다.** <br/>
 지식적으로 자립하여 토론을 할 수 있는 개발자<br/>
 자신의 역할을 자립적으로 수행함을 인정받고, 인정이 쌓여 일을 믿고 맡길 수 있는 개발자<br/>
 자립적인 개발자로 꾸준하게 성장하여, 시너지를 확신할 수 있는 개발자가 되길 희망합니다
+
+> **기획을 깊이 있게 이해하려 노력하고, 이를 통해 한 단계 높은 사용성 구현을 추구합니다.**<br/>
+
+전공인 광고 기획 능력과 창업 경험을 바탕으로 기획 의도의 본질을 파악하고 <br/>
+이를 구현 목표점으로 두어 프로젝트를 제작하고자 합니다. <br/>
+좋은 상품, 좋은 개발, 좋은 협업으로 이어질 수 있는 지름길이라 생각하기 때문입니다.<br/>
+이를 기반으로, 우수 프로젝트로 선정된 ‘탐나는 예약 시스템’, 베스트 넘블 프로젝트 ‘국민은행 온보딩 페이지’ 등, <br/>
+좋은 평가를 받은 프로젝트를 제작 할 수 있었습니다.
+
 
 
 
