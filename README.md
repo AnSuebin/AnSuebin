@@ -3,11 +3,6 @@
 <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f852cf18-d4a8-43ea-a23e-d34a4b375e90/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3__%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%89%E1%85%AE%E1%84%87%E1%85%B5%E1%86%AB_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230221T054545Z&X-Amz-Expires=86400&X-Amz-Signature=0460730bd51229ca49d01a6259d4f252523ff3e4265ef091343d8afe33bed3a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22%25E1%2584%2591%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25A9%25E1%2586%25AB%25E1%2584%2590%25E1%2585%25B3%25E1%2584%258B%25E1%2585%25A6%25E1%2586%25AB%25E1%2584%2583%25E1%2585%25B3_%2520%25E1%2584%258B%25E1%2585%25A1%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25AE%25E1%2584%2587%25E1%2585%25B5%25E1%2586%25AB_%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A7%25E1%2586%25A8%25E1%2584%2589%25E1%2585%25A5.pdf%22&x-id=GetObject" target="_blank"><img src="https://img.shields.io/badge/resume-doc-blue"/></a>
 
 <h3>🫗 기획을 녹여내는 개발자 안수빈입니다</h3>
- 
-> **자립적인 개발자를 목표로 공부하고 도전합니다.** <br/>
-지식적으로 자립하여 토론을 할 수 있는 개발자<br/>
-자신의 역할을 자립적으로 수행함을 인정받고, 인정이 쌓여 일을 믿고 맡길 수 있는 개발자<br/>
-자립적인 개발자로 꾸준하게 성장하여, 시너지를 확신할 수 있는 개발자가 되길 희망합니다
 
 > **기획을 깊이 있게 이해하려 노력하고, 이를 통해 한 단계 높은 사용성 구현을 추구합니다.**<br/>
 
